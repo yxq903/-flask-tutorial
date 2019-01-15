@@ -2,7 +2,7 @@
 ###### 参考网址：教程 — Flask 1.0.2 documentation
 https://dormousehole.readthedocs.io/en/latest/tutorial/index.html
 #### 介绍
-本网站是参照如上网址写的一个flask demo。
+本网站是参照如上网址写的一个flask Demo。
 
 
 
