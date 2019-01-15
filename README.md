@@ -9,7 +9,7 @@ https://dormousehole.readthedocs.io/en/latest/tutorial/index.html
 
 #### 运行环境：
 ###### 如下是经测试的运行环境
-‘’‘
+'''
 root@iZwz949xsbbksi0oz7skz0Z:~# conda -V
 conda 4.5.11
 root@iZwz949xsbbksi0oz7skz0Z:~# python
@@ -17,8 +17,7 @@ Python 3.6.5 |Anaconda, Inc.| (default, Apr 29 2018, 16:14:56)
 [GCC 7.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
-
-’‘’
+'''
 #### 使用说明：
 
 1. 初始化数据库：
